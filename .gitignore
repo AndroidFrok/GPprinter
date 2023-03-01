@@ -6,6 +6,4 @@
 */build
 /captures
 .externalNativeBuild
-
-/esc
 /tsc
