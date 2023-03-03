@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">EscDemo</string>
+    <string name="app_name">佳博EscDemo</string>
     <string name="blue_label">BlueTooth device</string>
     <string name="usb_label">USB device</string>
     <string name="ethernet_label">Ethernet device</string>

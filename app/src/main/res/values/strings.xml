@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">PrinterSdk</string>
+    <string name="app_name">GPPrinter</string>
     <string name="title_paired_devices">Paired</string>
     <string name="title_other_devices">New</string>
     <string name="scan">Scan</string>

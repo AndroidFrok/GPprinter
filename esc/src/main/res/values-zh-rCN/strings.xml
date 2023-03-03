@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">小票Demo</string>
+    <string name="app_name">佳博小票Demo</string>
     <string name="blue_label">蓝牙设备</string>
     <string name="usb_label">USB设备</string>
     <string name="ethernet_label">以太网设备</string>
