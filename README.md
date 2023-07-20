@@ -1,6 +1,7 @@
 # GPprinter-
 GPprinter 佳博打印机demo集合，及时更新
-
+优博讯K300-SDK https://www.urovo.com/
+优博讯是佳博的母公司，demo结构基本一致。2023年7月20日10:17:04 纪
 ## 结构
 说明：
 app是主demo ，可能不如分别独立的demo功能更全，暂时还没验证 ，四个module都是官方提供的 http://cn.gainscha.com/qudong.html 
