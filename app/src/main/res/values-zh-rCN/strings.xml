@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">佳博打印demo</string>
+    <string name="app_name">打印机总demo</string>
     <string name="title_paired_devices">已配对</string>
     <string name="title_other_devices">New</string>
     <string name="scan">扫描</string>
